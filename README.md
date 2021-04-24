@@ -1,4 +1,4 @@
-# ml_assignment
+# Machine Learning Assignments
 ## Assignment 1
 * Problem 1A-Implementing fischer discriminant. 
 * Problem 1B-Implementing Naive Bayes Classifier. 
