@@ -8,3 +8,6 @@
 * Problem 2A-Implementing Logistic regression.
 * Problem 2B-Implementing Artificial Neural Network.
 * Problem 2C- Comparitive Study of various models.
+# Contributors
+>> * Durba Satpathi 2019A7PS0972H
+>> * R Adarsh 2019A7PS0230H
