@@ -1,3 +1,4 @@
+# ML classification algortihms from scratch
 ## Part 1
 * Fischer discriminant. 
 * Naive Bayes Classifier. 
@@ -7,8 +8,3 @@
 * Logistic regression.
 * Artificial Neural Network.
 * Comparitive Study of various models
-
-## Part 3
-* Feature Ranking
-* Clustering
-* Decision Trees
