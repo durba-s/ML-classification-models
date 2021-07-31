@@ -1,4 +1,3 @@
-# Basic Classification models written from scratch
 ## Part 1
 * Fischer discriminant. 
 * Naive Bayes Classifier. 
