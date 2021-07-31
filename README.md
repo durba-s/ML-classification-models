@@ -7,7 +7,9 @@
 ## Part 2
 * Logistic regression.
 * Artificial Neural Network.
-* Comparitive Study of various models.
-# Contributors
->> * Durba Satpathi 2019A7PS0972H
->> * R Adarsh 2019A7PS0230H
+* Comparitive Study of various models
+
+## Part 3
+* Feature Ranking
+* Clustering
+* Decision Trees
